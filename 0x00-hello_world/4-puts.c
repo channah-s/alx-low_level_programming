@@ -3,7 +3,7 @@
 /**
  * main - this is the entry point for program execution
  * Description - a C program that prints with the puts command
- * Return - this is usually 0 as a default for successful program ran
+ * Return: 0. This is usually 0 as a default for successful program ran
  */
 
 int main(void)
